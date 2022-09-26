@@ -2,7 +2,7 @@
 
 ### Install Laravel
 
-- testprice folder
+- back folder
 - create database
 - update `.env` file to connect to database
 - use console and run `php artisan migrate:fresh && php artisan db:seed --class=TotalSeeder`
@@ -12,7 +12,7 @@
 
 ### Install Front
 
-- test-task folder
+- front folder
 - project setup `npm install`
 - compiles and hot-reloads for development `npm run serve`
 - check url `http://localhost:8080/`
