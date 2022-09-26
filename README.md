@@ -13,6 +13,7 @@
 ### Install Front
 
 - front folder
+- for correct work use nodeJs 18.8.0
 - project setup `npm install`
 - compiles and hot-reloads for development `npm run serve`
 - check url `http://localhost:8080/`
